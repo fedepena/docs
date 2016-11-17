@@ -1,4 +1,4 @@
-Título: Cómo usar prefijos múltiples en facturas y otros documentos
+Título: Cómo usar múltiples prefijos en facturas y otros documentos
 
 Para usar múltiples prefijos y numeración en nuestras facturas necesitamos cambiar la configuración de la factura.
 

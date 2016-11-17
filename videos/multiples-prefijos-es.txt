@@ -1,7 +1,8 @@
+Título: Cómo usar prefijos múltiples en facturas y otros documentos
 
-Ahora podemos usar diferentes prefijos y numeraciones en nuestras facturas.
+Para usar múltiples prefijos y numeración en nuestras facturas necesitamos cambiar la configuración de la factura.
 
-Para configurarlos vamos a "Su cuenta" y a mano derecha bajo "Documentos" damos clic en "Factura".
+Vamos a "Su cuenta" y a mano derecha bajo "Documentos" damos clic en "Factura".
 
 Aquí podemos ver el prefijo que estamos usando ahora y si queremos agregar uno nuevo le damos clic al signo más.
 

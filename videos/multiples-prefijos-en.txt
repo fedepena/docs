@@ -1,7 +1,8 @@
+Title: How to use multiple prefixes on invoices and other documents
 
-We can now use different prefixes and numbering in our invoices.
+To use multiple prefixes and numbering on our invoices we need to change the invoice settings.
 
-To configure them we go to "Your account" and on the right side under documents we click on "Invoice".
+We go to "Your account" and on the right side under documents we click on "Invoice".
 
 Here we can see the prefix we are using at the moment and to add a new one we clic on the plus sign
 

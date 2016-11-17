@@ -1,0 +1,16 @@
+
+We can now use different prefixes and numbering in our invoices.
+
+To configure them we go to "Your account" and on the right side under documents we click on "Invoice".
+
+Here we can see the prefix we are using at the moment and to add a new one we clic on the plus sign
+
+We enter the new prefix we want to use, for example, OI, and the number we want to start with, say, 0001.
+
+Let's save and see what happens when we create a new invoice.
+
+The first prefix is automatically selected, but now I have the option to change it to the one we just created with its corresponding next number.
+
+We can also configure multiple prefixes for our quotes and credit notes from "Your account" following the same steps.
+
+We hope this was helpful and clear and if you have questions, please contact us by chat from our website or inside the app.

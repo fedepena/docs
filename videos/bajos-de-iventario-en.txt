@@ -1,0 +1,17 @@
+Title: How to setup and use the parameters to restock the inventory
+
+The first thing we need to do is enter the minimum and maximum quantities that we want to have for inventory items.
+
+For example, let's go to control inventory, and click on the product "Dynamite" to open the edit form.
+
+Here we can see that Dynamite already has a minimum inventory of 2 (which was automatically assigned by the system) and that it doesn't have a maximum inventory.
+
+Let's go ahead and change this values. Let's say that the minimum inventory should be "10", that the maximum inventory should be "50", and save.
+
+Now we select the option "Low inventory", and can see that for Dynamite we have a shortfall of 42, which is the maximum inventory of 50 minus the existing inventory of 8.
+
+The benefit is that besides knowing what products I need to restock because they are low in inventory, the system is also letting me know the quantities I need to order to go back to the maximum inventory desired.
+
+And this is useful both operationally (because I have enough product to cover demand) and financially (because I don't have to invest more capital than necessary in inventory).
+
+We hope this was helpful and clear and if you have questions, please contact us by chat from our website or inside the app.

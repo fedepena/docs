@@ -1,0 +1,17 @@
+Ahora podemos controlar las cantidades nuestro inventario a través de la opción bajos de inventario.
+
+Para ver como funciona debemos verificar o designar las cantidades mínimas y máximas que queremos tener para cada uno de nuestros items.
+
+Por ejemplo, vamos a Controlar / Inventario y veamos las cantidades que tenemos para nuestro producto "Dinamita".
+
+Damos clic sobre el nombre y vemos que aun tenemos las cantidades que el sistema por default nos asigna: 2.
+
+Por ejemplo vamos a cambiar el inventario mínimo y vamos a decir que debemos tener siempre 10 y que nuestro inventario máximo va a ser siempre 50 y le digo guardar.
+
+Ahora filtremos por "Bajos de Inventarios", podemos ver que para el caso de la Dinamita tenemos un faltante de 42 ya que nuestro inventario actual es de 8 y máximo debemos tener 50.
+
+También podemos ver, que para el caso del Alpiste, los 100 que están en rojo nos indica que tenemos un inventario negativo y que si el máximo es 2, debemos pedir 102 unidades de dicho producto.
+
+Esperamos que esto sea útil para quienes le facturan a sus clientes en montos y/o periodos regulares.
+
+Y si tiene preguntas, por favor use la opción "Contáctenos" en el menú de ayuda.

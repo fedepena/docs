@@ -4,9 +4,9 @@ Lo primero que tenemos que hacer es ingresar las cantidades mínimas y máximas 
 
 Por ejemplo, vamos a controlar inventario, y hagamos clic en el producto "Dinamita" para abrir el formulario de edición.
 
-Aquí podemos ver qué Dinamita ya tiene un inventario mínimo de 2 (el cual fue asignado automáticamente por el sistema) y qué no tiene inventario máximo.
+Aquí podemos ver qué Dinamita no tiene inventario mínimo ni inventario máximo.
 
-Procedamos a cambiar estos valores. Digamos que el inventario mínimo debe ser "10", que el inventario máximo debe ser "50", y guardemos.
+Procedamos a ingresar estos valores. Digamos que el inventario mínimo debe ser "10", que el inventario máximo debe ser "50", y guardemos.
 
 Ahora seleccionamos la opción "Bajos de Inventario", y podemos ver que para Dinamita tenemos un faltante de 42, que es el inventario máximo de 50 menos el inventario actual de 8.
 

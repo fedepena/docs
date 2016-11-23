@@ -4,9 +4,9 @@ The first thing we need to do is enter the minimum and maximum quantities that w
 
 For example, let's go to control inventory, and click on the product "Dynamite" to open the edit form.
 
-Here we can see that Dynamite already has a minimum inventory of 2 (which was automatically assigned by the system) and that it doesn't have a maximum inventory.
+Here we can see that Dynamite has neither a minimum inventory or a maximum inventory.
 
-Let's go ahead and change this values. Let's say that the minimum inventory should be "10", that the maximum inventory should be "50", and save.
+Let's go ahead and enter these values. Let's say that the minimum inventory should be "10", that the maximum inventory should be "50", and save.
 
 Now we select the option "Low inventory", and can see that for Dynamite we have a shortfall of 42, which is the maximum inventory of 50 minus the existing inventory of 8.
 

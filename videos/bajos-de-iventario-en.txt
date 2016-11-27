@@ -1,6 +1,6 @@
 Title: How to setup and use the parameters to restock the inventory
 
-The first thing we need to do is enter the minimum and maximum quantities that we want to have for inventory items.
+To setup the parameters to restock inventory we need to enter the minimum and maximum quantities that we want to have for inventory items.
 
 For example, let's go to control inventory, and click on the product "Dynamite" to open the edit form.
 
@@ -8,7 +8,9 @@ Here we can see that Dynamite has neither a minimum inventory or a maximum inven
 
 Let's go ahead and enter these values. Let's say that the minimum inventory should be "10", that the maximum inventory should be "50", and save.
 
-Now we select the option "Low inventory", and can see that for Dynamite we have a shortfall of 42, which is the maximum inventory of 50 minus the existing inventory of 8.
+The parameters to restock inventory have been set up, so we can start using them by selecting the option "Low inventory". 
+
+We can see that for Dynamite we have a shortfall of 42, which is the maximum inventory of 50, minus the existing inventory of 8.
 
 The benefit is that besides knowing what products I need to restock because they are low in inventory, the system is also letting me know the quantities I need to order to go back to the maximum inventory desired.
 

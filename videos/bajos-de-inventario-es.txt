@@ -1,6 +1,6 @@
 Título: Cómo determinar y usar los parámetros para reposición de inventario
 
-Lo primero que tenemos que hacer es ingresar las cantidades mínimas y máximas que queremos tener para los ítems de inventario.
+Para determinar los parámetros de reposición de inventario debemos ingresar las cantidades mínimas y máximas que queremos tener para los ítems de inventario.
 
 Por ejemplo, vamos a controlar inventario, y hagamos clic en el producto "Dinamita" para abrir el formulario de edición.
 
@@ -8,7 +8,9 @@ Aquí podemos ver qué Dinamita no tiene inventario mínimo ni inventario máxim
 
 Procedamos a ingresar estos valores. Digamos que el inventario mínimo debe ser "10", que el inventario máximo debe ser "50", y guardemos.
 
-Ahora seleccionamos la opción "Bajos de Inventario", y podemos ver que para Dinamita tenemos un faltante de 42, que es el inventario máximo de 50 menos el inventario actual de 8.
+Los parámetros de reposición de inventario han sido establecidos, así que podemos comenzar a usarlos seleccionado la opción "Bajos de inventario"
+
+Podemos ver que para Dinamita tenemos un faltante de 42, que es el inventario máximo de 50 menos el inventario actual de 8.
 
 El beneficio es que además de saber qué productos debo reponer por que están bajos de inventario, el sistema también me está indicando las cantidades que debo ordenar para volver al inventario máximo deseado.
 

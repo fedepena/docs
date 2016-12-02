@@ -1,4 +1,4 @@
-Title: How to setup and use the parameters to restock the inventory
+Title: Setup and use the parameters to restock the inventory
 
 To setup the parameters to restock inventory we need to enter the minimum and maximum quantities that we want to have for inventory items.
 

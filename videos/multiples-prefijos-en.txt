@@ -1,4 +1,4 @@
-Title: How to use multiple prefixes on invoices and other documents
+Title: Use multiple prefixes on invoices and other documents
 
 To use multiple prefixes and numbering on our invoices we need to change the invoice settings.
 

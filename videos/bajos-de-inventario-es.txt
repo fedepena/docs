@@ -1,4 +1,4 @@
-Título: Cómo determinar y usar los parámetros para reposición de inventario
+Título: Determine y use los parámetros para reposición de inventario
 
 Para determinar los parámetros de reposición de inventario debemos ingresar las cantidades mínimas y máximas que queremos tener para los ítems de inventario.
 

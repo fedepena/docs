@@ -6,6 +6,6 @@ I'm a real person and this is not just an automated response, so I would like to
 
 When I call or at a later time if not convenient, I would also like to ask you a few questions about your business to determine if myAbakus fits your needs and to answer any question you might have.
 
-Is X your mobile number? If so, would it be ok if I contact you via WhatsApp?
+Is {{user.phone}} your mobile number? If so, would it be ok if I contact you via WhatsApp?
 
 Cheers

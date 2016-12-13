@@ -1,0 +1,48 @@
+Accounts Payable
+
+How to get started with managing accounts payable in myAbakus
+
+Methodology
+
+Forget about entering all the suppliers with their initial balances. The best way to go about this is to focus on existing outstanding invoices.
+
+To keep things simple for this video, we are going to say that we have 5 outstanding invoices from 2 suppliers.
+
+Keep in mind that we are starting from scratch and thus we will be creating what we need as we enter the invoices.
+
+And also that we will use very basic generic names for everything we need to create.
+
+Let's quickly review the invoices
+
+We got number, date, supplier, amount and due date
+
+We are ready to enter the first invoice so let's do it
+
+I've just logged into this brand new account so everything on the overview is in zeros. We'll come back here shortly to see the impact of what we are about to do.
+
+Let’s go to Expenses and click on New transaction.
+
+The date of our first invoice is November 13th so let's go ahead an enter it. We could use the calendar, but I'm just going to type it inside the box.
+
+Now I hit the tab key in the keyboard to move to Reference and enter the invoice number: ABC-045.
+
+I hit the tab key again and enter the supplier’s name: Supplier 1.
+
+Notice that we can continue with just the name or enter as much information as we need about the supplier by clicking on Details.
+
+I hit the tab key once more and enter the name of the first invoice item: Product A
+
+This time when I hit the tab key to move to the description I get a form to create and define the item. I select Goods and although I could enter code, price and description, I’m going to go ahead without those and save.
+
+Now I enter 50 in quantity and 100 in price. Let's repeat the process and add a second line. The item is Product B, the type of item is Goods, the quantity is 40 and the price is 120.
+
+We are ready to enter the due date. This time I'm going to use the calendar to select December 13th.
+
+We are not going to apply any discount and leave it with a VAT rate of 16%.
+
+We are ready to save. Keep in mind that clicking directly in Save is the same than clicking first on the arrow and then on the first option.
+
+There it is: our first purchase invoice.
+
+Before we enter more invoice let's review the impact of the first one
+

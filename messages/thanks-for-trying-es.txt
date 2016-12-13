@@ -2,10 +2,10 @@ Hola
 
 Sólo quería agradecerle por probar nuestro software y dejarle saber que soy la persona encargada de ayudarle en el proceso de arranque.
 
-Soy una persona real y este no es simplemente una respuesta automática, así que me gustaría hacerle una breve llamada para presentarme.   
+Soy una persona real y este no es simplemente una respuesta automática, así que me gustaría hacerle una breve llamada para presentarme.
 
 Cuando lo llame, o en otra ocasión si no es un buen momento, también me gustaría hacerle algunas preguntas sobre su negocio para determinar si myAbakus se ajusta a sus necesidades y contestar cualquier pregunta que pueda tener.
 
-¿Es X su número celular? De ser así, ¿estaría bien si lo contacto por WhatsApp?
+¿Es {{user.phone}} su número celular? De ser así, ¿estaría bien si lo contacto por WhatsApp?
 
 Saludos

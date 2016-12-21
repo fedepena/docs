@@ -1,0 +1,39 @@
+Title: Enter your initial inventory
+
+To enter the initial inventory we need to go to Control - Inventory and use the "Add inventory" action.
+
+This opens a form to create an inventory adjustment. In this case, the adjustment will be to add all the goods we currently hold in inventory.
+
+We type or select the date that we will use for our initial inventory adjustment. For example, the end of last month.
+
+We press the tab key to move to Reference and enter "Initial Inventory" to leave a record of the nature of this adjustment.
+
+We press the tab key again enter the name of our first product: "Canary grass".
+
+We press the tab key once more to continue and this time we get a form to create and define the product.
+
+Canary grass is something I buy and sell, not a material nor a fixed asset, so in Type I select "Goods".
+
+Name and type are only things required to create the product, but in this example we are going to add more information.
+
+I enter "X" as the code, a the selling price of X, a buying price of X, a minimum inventory of X, a maximum inventory of X and "100% Organic" in description.
+
+The code is for internal control if it already exist.
+
+The selling price will be the default price on new income transactions for this product.
+
+The buying price will the default price on new expense transactions for this product, including this adjustment.
+
+The minimum and maximum inventory will help me keep inventory levels within that range.
+
+And the description will be automatically added to new transactions, but can be edited as needed.
+
+We save and our product now has description and price.
+
+We press the tab key again and in quantity I enter the existing inventory: "X".
+
+We naturally need to repeat this process for every product we have in inventory.
+
+If the list of products is long we recommend using the option "Save and continued editing" or doing it in batches by saving and then editing the adjustment.
+
+If the list of products is too long, you can also give it to us in Excel format with all the information you want and we will import it for you.

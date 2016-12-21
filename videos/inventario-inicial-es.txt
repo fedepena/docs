@@ -1,0 +1,15 @@
+Título: Ingrese el inventario inicial
+
+Para ingresar el inventario inicial, vamos a Controlar - Inventario. A mano derecha en Acciones, seleccionamos la opción "Agregar Inventario".
+
+Nos abre un formulario o "ajuste", aquí vamos a colocar todas aquellas mercancías con las que vamos a arrancar a trabajar en myAbakus.
+
+En el campo referencia, colocamos Inventario Inicial para saber a que corresponde el ajuste. En nombre colocamos por ejemplo Alpiste, damos click en la casilla precio y nos abre una ventana que se llama "agregar producto".
+
+Aquí clasificamos si es mercancía, materiales o activos fijos, en este caso selecciono mercancías, y coloco el precio de venta, el precio de compra y los stocks de inventario que queremos manejar.
+
+Cuando le decimos guardar el sistema automáticamente nos trae el precio de compra y le colocamos la cantidad de inventario a ingresar.
+
+Si la lista de inventarios que vamos a ingresar es extensa, debemos ir guardando el documento utilizando la opción "Guardar y continuar editando" del botón guardar.
+
+Pero si usted tiene la lista en excel, nosotros la podemos subir al sistema, solo contáctenos.

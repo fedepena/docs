@@ -40,9 +40,7 @@ We are ready to enter the due date. This time I'm going to use the calendar to s
 
 We are not going to apply any discount and leave it with a VAT rate of 16%.
 
-We are ready to save. Keep in mind that clicking directly in Save is the same than clicking first on the arrow and then on the first option.
-
-There it is: our first purchase invoice.
+We are ready to save. Keep in mind that clicking directly in Save is the same than clicking first on the arrow and then on the first option. There it is: our first purchase invoice.
 
 Before we enter more invoice let's review the impact of the first one
 

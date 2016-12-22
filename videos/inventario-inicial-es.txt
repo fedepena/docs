@@ -1,15 +1,41 @@
 Título: Ingrese el inventario inicial
 
-Para ingresar el inventario inicial, vamos a Controlar - Inventario. A mano derecha en Acciones, seleccionamos la opción "Agregar Inventario".
+Para ingresar el inventario inicial necesitamos ir a controlar inventario, y usar la acción agregar inventario.
 
-Nos abre un formulario o "ajuste", aquí vamos a colocar todas aquellas mercancías con las que vamos a arrancar a trabajar en myAbakus.
+Esto nos abre un formulario para crear un ajuste de inventario. En este caso, el ajuste va a ser agregar todas las mercancías que actualmente tenemos en inventario.
 
-En el campo referencia, colocamos Inventario Inicial para saber a que corresponde el ajuste. En nombre colocamos por ejemplo Alpiste, damos click en la casilla precio y nos abre una ventana que se llama "agregar producto".
+Escribimos o seleccionamos la fecha que vamos a usar para nuestro ajuste de inventario inicial. Por ejemplo, el final del mes pasado.
 
-Aquí clasificamos si es mercancía, materiales o activos fijos, en este caso selecciono mercancías, y coloco el precio de venta, el precio de compra y los stocks de inventario que queremos manejar.
+Presionamos la tecla tab para movernos a referencia e ingresamos Inventario inicial, para así tener registro de la naturaleza de este ajuste.
 
-Cuando le decimos guardar el sistema automáticamente nos trae el precio de compra y le colocamos la cantidad de inventario a ingresar.
+Presionamos la tecla tab nuevamente e ingresamos el nombre de nuestro primer producto: Alpiste.
 
-Si la lista de inventarios que vamos a ingresar es extensa, debemos ir guardando el documento utilizando la opción "Guardar y continuar editando" del botón guardar.
+Volvemos a presionar tab y esta vez nos sale un formulario para crear y clasificar el producto.
 
-Pero si usted tiene la lista en excel, nosotros la podemos subir al sistema, solo contáctenos.
+Alpiste es algo que compramos y vendemos, no un material ni un activo fijo, así que en tipo seleccionamos mercancías.
+
+Solo nombre y tipo son necesarios para crear el producto, pero en este ejemplo vamos a agregar mas información.
+
+Ingreso 0002 en código, 100 en precio de venta, 50 en precio de compra, 10 en inventario mínimo, 50 en inventario máximo, y 100% Orgánico en descripción.
+
+El código es para control interno si ya existe.
+
+El precio de venta será el precio por defecto en las nuevas transacciones de ingreso con este producto.
+
+El precio de compra será el precio por defecto en las nuevas transacciones de gastos con este producto, incluyendo este ajuste.
+
+El inventario mínimo y máximo me ayudará a mantener los niveles de inventario dentro de este rango.
+
+Y la descripción se agregará automáticamente a las nuevas transacciones con este producto, pero con la opción de cambiarla si es necesario.
+
+Guardamos y nuestro producto ahora tiene descripción y precio.
+
+Presiono la tecla tab nuevamente y en cantidad ingreso el inventario existente: 15.
+
+Naturalmente, tenemos que repetir este proceso por cada producto que tenemos en inventario.
+
+Si la lista de productos es larga, recomendamos usar la opción guardar y continuar editando, o hacerlo por partes, guardando el ajuste y editándolo cuando desee continuar.
+
+Si la lista de productos es demasiado larga, también puede dárnosla en un archivo de Excel con toda la información que quiera incluir y con el mayor gusto se la importaremos.
+
+Esperamos que esto haya sido útil y claro, y si tiene preguntas o necesita ayuda, por favor contáctenos via chat. Estamos a la orden para ayudarlo.

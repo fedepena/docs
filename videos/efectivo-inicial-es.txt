@@ -1,0 +1,19 @@
+Título: Como ingreso mis saldos de efectivo
+
+Para ingresar nuestros saldos de efectivo vamos a Controlar - Efectivo.
+
+Encontramos una cuentas ya creadas en el sistema como sugerencia que podemos usar, eliminar o crear nuevas cuentas.
+
+Para colocar los saldos, simplemente vamos a darle click sobre el nombre de la cuenta, por ejemplo “Efectivo”.
+
+Nos abre una forma de “edición” y podemos cambiar o complementar el nombre de la cuenta, por ejemplo le agrego Caja Menor.
+
+En saldo Inicial voy a colocar 5.000 y dejo marcado e signo mas, indicando que es un saldo positivo. 
+
+Luego selecciono o escribo la fecha inicial de ese ajuste. Por ejemplo final del mes pasado.
+
+Cuando le decimos guardar, automáticamente, nos va a salir la cuenta de Efectivo con los 5.000, nos muestra las cuentas con saldo. 
+
+Si queremos ver nuevamente la lista de las cuentas, damos click en el selector de “con saldo” y filtramos “Sin Saldo”
+
+Podemos crear las cuentas que necesitemos usando las acciones a mano derecha y seleccionado la naturaleza de la cuenta a crear: efectivo, cuenta bancaria, tarjetas de crédito, créditos o préstamos. 

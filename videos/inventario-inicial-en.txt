@@ -1,39 +1,41 @@
-Title: Enter your initial inventory
+Title: Enter the initial inventory
 
-To enter the initial inventory we need to go to Control - Inventory and use the "Add inventory" action.
+To enter the initial inventory we need to go to control inventory, and use the add inventory action.
 
 This opens a form to create an inventory adjustment. In this case, the adjustment will be to add all the goods we currently hold in inventory.
 
 We type or select the date that we will use for our initial inventory adjustment. For example, the end of last month.
 
-We press the tab key to move to Reference and enter "Initial Inventory" to leave a record of the nature of this adjustment.
+We press the tab key to move to reference and enter Initial inventory, so that we have a record of the nature of this adjustment.
 
-We press the tab key again enter the name of our first product: "Canary grass".
+We press the tab key again and enter the name of our first product: Canary grass.
 
-We press the tab key once more to continue and this time we get a form to create and define the product.
+We press the tab key once more and this time we get a form to create and define the product.
 
-Canary grass is something I buy and sell, not a material nor a fixed asset, so in Type I select "Goods".
+Canary grass is something we buy and sell, not a material nor a fixed asset, so in type we select goods.
 
-Name and type are only things required to create the product, but in this example we are going to add more information.
+Only name and type are needed to create the product, but in this example we are going to add more information.
 
-I enter "X" as the code, a the selling price of X, a buying price of X, a minimum inventory of X, a maximum inventory of X and "100% Organic" in description.
+I enter 0002 in code, 100 in selling price, 50 in buying price, 10 in minimum inventory, 50 in maximum inventory, and 100% Organic in description.
 
 The code is for internal control if it already exist.
 
-The selling price will be the default price on new income transactions for this product.
+The selling price will be the default price on new income transactions with this product.
 
-The buying price will the default price on new expense transactions for this product, including this adjustment.
+The buying price will be the default price on new expense transactions with this product, including this adjustment.
 
 The minimum and maximum inventory will help me keep inventory levels within that range.
 
-And the description will be automatically added to new transactions, but can be edited as needed.
+And the description will be automatically added to new transactions with this product, but with the option to change it if needed.
 
 We save and our product now has description and price.
 
-We press the tab key again and in quantity I enter the existing inventory: "X".
+We press the tab key again and in quantity I enter the existing inventory: 15.
 
-We naturally need to repeat this process for every product we have in inventory.
+Naturally, we have to repeat this process for every product we have in inventory.
 
-If the list of products is long we recommend using the option "Save and continued editing" or doing it in batches by saving and then editing the adjustment.
+If the list of products is long we recommend using the option save and continue editing, or doing it in batches by saving the adjustments and editing it when you wish to continue.
 
-If the list of products is too long, you can also give it to us in Excel format with all the information you want and we will import it for you.
+If the list of products is too long, you can also give it to us in an Excel file with all the information you want to include and we'll be more than happy to import it for you.
+
+We hope this was helpful and clear, and if you have questions or need help, please contact us by chat. We are here to help you.

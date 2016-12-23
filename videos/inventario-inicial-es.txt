@@ -6,7 +6,7 @@ Esto nos abre un formulario para crear un ajuste de inventario. En este caso, el
 
 Escribimos o seleccionamos la fecha que vamos a usar para nuestro ajuste de inventario inicial. Por ejemplo, el final del mes pasado.
 
-Presionamos la tecla tab para movernos a referencia e ingresamos Inventario inicial, para así tener registro de la naturaleza de este ajuste.
+Presionamos la tecla tab para movernos a referencia, e ingresamos Inventario inicial, para así tener registro de la naturaleza de este ajuste.
 
 Presionamos la tecla tab nuevamente e ingresamos el nombre de nuestro primer producto: Alpiste.
 

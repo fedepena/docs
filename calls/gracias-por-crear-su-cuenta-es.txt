@@ -1,0 +1,19 @@
+Bueno/as días/tardes señor/a X
+
+Mi nombre es Ivonne Prieto y lo estoy llamando por qué hoy/ayer usted registro una cuenta de myAbakus, nuestro software contable en línea.
+
+¿Me puede regalar un par de minutos de su tiempo o lo cojo en mal momento?
+
+[Si "Adelante"]
+
+El objetivo de mi llamada es darle las gracias por su interés de myAbakus y preguntarle si estaría interesado en recibir una breve llamada telefónica de uno de nuestros socios para discutir los objetivos y las necesidades de su negocio en materia de organización financiera.
+
+La idea es determinar si nuestro software es una buena solución para su negocio y responder cualquier otra pregunta que pueda tener. Y lo hacemos para que usted pueda decidir de antemano si vale la pena o no invertir tiempo en la evaluación de nuestro software.
+
+{Si "Ok me pueden llamar"}
+
+Excelente. ¿Es X su celular? ¿Usted usa WhatsApp? ¿Nos permite contactarlo por esa vía o prefiere que lo llamemos a su número de trabajo?
+
+Perfecto. Entonces le recomiendo que por favor este pendiente de la llamada. Ya sea Federico Peña o Diana Franco lo estarán llamando lo antes posible.
+
+Muchas gracias y que tenga un feliz día

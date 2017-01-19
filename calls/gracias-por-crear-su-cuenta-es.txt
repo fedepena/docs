@@ -2,18 +2,32 @@ Bueno/as días/tardes señor/a X
 
 Mi nombre es Ivonne Prieto y lo estoy llamando por qué hoy/ayer usted registro una cuenta de myAbakus, nuestro software contable en línea.
 
-¿Me puede regalar un par de minutos de su tiempo o lo cojo en mal momento?
+¿Me puede regalar entre 5 y 10 minutos de su tiempo o lo cojo en mal momento?
 
-[Si "Adelante"]
+[Si adelante]
 
-El objetivo de mi llamada es darle las gracias por su interés de myAbakus y preguntarle si estaría interesado en recibir una breve llamada telefónica de uno de nuestros socios para discutir los objetivos y las necesidades de su negocio en materia de organización financiera.
+El objetivo de mi llamada es darle las gracias por su interés en nuestro software y hacerle un par de preguntas para entender bien los objetivos y necesidades de su negocio y determinar si nuestro producto es una solución viable y atractiva para usted.
 
-La idea es determinar si nuestro software es una buena solución para su negocio y responder cualquier otra pregunta que pueda tener. Y lo hacemos para que usted pueda decidir de antemano si vale la pena o no invertir tiempo en la evaluación de nuestro software.
+[Si adelante]
 
-{Si "Ok me pueden llamar"}
+La primera pregunta es sobre la decisión de registrar la cuenta. ¿Hay algo en particular que este ocurriendo en su negocio que lo motivo a hacerlo? Como por ejemplo, estar cansado de no tener un sistema que le permita entender y controlar las finanzas de su negocio o estar insatisfecho con su sistema actual?
 
-Excelente. ¿Es X su celular? ¿Usted usa WhatsApp? ¿Nos permite contactarlo por esa vía o prefiere que lo llamemos a su número de trabajo?
+Entiendo...
 
-Perfecto. Entonces le recomiendo que por favor este pendiente de la llamada. Ya sea Federico Peña o Diana Franco lo estarán llamando lo antes posible.
+La segunda pregunta es sobre su negocio. Me podría por favor explicar rápidamente a que se dedica su empresa e indicarme si maneja algún tipo de inventario o proceso de producción.
 
-Muchas gracias y que tenga un feliz día
+Entiendo...
+
+La tercera y última pregunta es, ¿cuál cree usted que es la razón por la que muchos negocios no mantienen cuentas claras y al día? ¿Es un problema de falta de tiempo y/o personal? ¿O es un problema de la complejidad de los conceptos contables? ¿O es un problema de la complejidad de los sistemas contables?
+
+Entiendo...
+
+Señor X, según lo que usted me indica hasta el momento, yo [no] creo que nuestro software [vaya] va ser una buena solución para su negocio.
+
+Pero la única forma de que se de cuenta es usándolo. Por eso yo le recomendaría aprovechar al máximo el periodo de prueba. Inclusive le puedo agendar una sesión de orientación para que lo ayuden a arrancar que es siempre lo más difícil. ¿Le interesaría?
+
+[Si le interesa]
+
+Perfecto. Entonces por que no la agendamos de una vez....
+
+Muchas gracias por su tiempo y que tenga un feliz día

@@ -1,0 +1,90 @@
+Felicitaciones por completar su primer día de prueba de myAbakus.
+
+Este es el resumen de su actividad.
+
+Usted ingreso saldos iniciales para las siguiente cuentas:
+
+-Cuenta A: $X
+-Cuenta B: $X
+
+...y saldos iniciales para los siguientes clientes:
+
+-A: $X
+-B: $X
+-C: $X
+
+...y saldos iniciales para los siguientes proveedores:
+
+-A: $X
+-B: $X
+-C: $X
+
+...y saldos iniciales para los siguientes productos:
+
+-A: X
+-B: X
+-C: X
+
+Usted registró X transacciones de ingreso por un total de $X y como parte de ese proceso se crearon/usaron:
+
+-X clientes: A, B y C
+-X items tipo servicio: A, B y C
+-X productos tipo mercancía: A, B y C
+
+Y también también registró X transacciones de gasto por un total de $X y como parte de ese proceso se crearon/usaron:
+
+-X proveedores: A, B y C
+-X items tipo gasto general: A, B y C
+-X items tipo producto: A, B y C
+
+Usted registro X cobros de ingresos por un total de $X y como resultado de hacerlo:
+
+-Sus cuentas por cobrar aumentaron en $X
+-Su cuenta A aumento en $X
+y su cuenta B aumento en $X
+
+Y también registró X pagos de compras o gastos por un total de $X y como resultado de hacerlo:
+
+-Sus cuentas por pagar aumentaron en $X
+-Su Cuenta A disminuyo en $X
+y su Cuenta B disminuyo en $X
+
+El impacto neto de los cobros y pagos registrados sobre el flujo de caja de caja fue X$ así:
+
+-Cuenta A: aumentó/disminuyó $X
+-Cuenta B X: aumentó/disminuyó $X
+
+Al final del ejercicio, sus saldos finales de efectivo fueron:
+
+-Cuenta A: $X
+-Cuenta B: $X
+
+[Alerta en caso de saldos negativos]
+
+… y sus saldos finales de clientes fueron:
+
+-A: $X
+-B: $X
+-C: $X
+
+…y sus saldos finales de proveedores fueron:
+
+-A: $X
+-B: $X
+-C: $X
+
+…y sus saldos finales de productos fueron:
+
+-A: X
+-B: X
+-C: X
+
+[Alerta en caso de saldos negativos]
+
+Además de la actividad transaccional, usted también:
+
+-Subió su propio logo
+-Agrego la información de contacto de su negocio
+-Configuro su factura
+-Probó el envió de una factura por email
+-Envió una factura por email

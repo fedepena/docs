@@ -1,0 +1,102 @@
+Cómo y Dónde Arrancar - Parte 1
+
+Paso 1: Ingresemos los saldos de cuentas por cobrar y pagar
+
+Para ingresar todas aquellas cuentas que tenemos pendientes por cobrar y por pagar debemos hacerlo a través de una transacción.
+
+Vamos a Ingresos, le decimos nueva transacción, podemos seleccionar o escribir la fecha, supongamos que vamos a iniciar este mes entonces colocamos el final del mes pasado.
+
+(De esta forma no afectamos los ingresos del mes que estamos arrancando)
+
+En cliente, colocamos el nombre de la persona o empresa que nos debe. Por ejemplo el Coyote.
+
+En el nombre del ítem, escribimos "saldo inicial" y el sistema nos muestra ya el ítem creado para este caso.
+
+Como son saldos iniciales, desmarcamos el impuesto
+
+En precio colocamos el monto total de lo que nos deben, por ejemplo 10000 y le decimos guardar.
+
+Ahora registremos una cuenta pendiente de un proveedor; vamos a Gastos, luego nueva transacción, en proveedor colocamos Warner Brothers ; en nombre volvemos a llamar el ítem "saldo inicial" y le colocamos el precio, por ejemplo 5000 y guardamos.
+
+Estas transacciones aparecerán ahora en nuestros reportes de cuentas por cobrar y por pagar.
+
+Ahora lo único que tenemos que hacer es repetir este proceso, es decir crear una transacción por cada una de las cuentas pendientes de cada cliente o proveedor.
+
+Paso 2: Ingresemos el inventario inicial
+
+Para ingresar el inventario inicial necesitamos ir a controlar inventario, y usar la acción agregar inventario.
+
+Esto nos abre un formulario para crear un ajuste de inventario. En este caso, el ajuste va a ser agregar todas las mercancías que actualmente tenemos en inventario.
+
+Escribimos o seleccionamos la fecha que vamos a usar para nuestro ajuste de inventario inicial. Por ejemplo, el final del mes pasado.
+
+Presionamos la tecla tab para movernos a referencia, e ingresamos Inventario inicial, para así tener registro de la naturaleza de este ajuste.
+
+Presionamos la tecla tab nuevamente e ingresamos el nombre de nuestro primer producto: Alpiste.
+
+Volvemos a presionar tab y esta vez nos sale un formulario para crear y clasificar el producto.
+
+Alpiste es algo que compramos y vendemos, no un material ni un activo fijo, así que en tipo seleccionamos mercancías.
+
+Solo nombre y tipo son necesarios para crear el producto.
+
+Ingreso 100 en precio de venta, 50 en precio de compra, y 100% Orgánico en descripción.
+
+Guardamos y nuestro producto ahora tiene descripción y precio.
+
+Presiono la tecla tab nuevamente y en cantidad ingreso el inventario existente: 15.
+
+Naturalmente, tenemos que repetir este proceso por cada producto que tenemos en inventario.
+
+Si la lista de productos es demasiado larga, también puede dárnosla en un archivo de Excel con toda la información que quiera incluir y con el mayor gusto se la importaremos.
+
+Para ver la lista de lo que hemos ingresado hasta el momento, vamos a la pestaña “inventario" y aquí tenemos nuestras 15 unidades de Alpiste.
+
+Paso 3: Ingresemos los saldos de efectivo y créditos
+
+Para ingresar nuestros saldos de efectivo vamos a Controlar - Efectivo.
+
+Aquí encontramos una lista ya creada con diferentes tipos de cuentas como sugerencia para su país, las cuales podemos usar o eliminar. También podemos crear nuevas usando las diferentes acciones que tenemos para cada tipo de cuenta.
+
+Para colocar nuestros saldos iniciales, simplemente vamos a darle click sobre el nombre de la cuenta, por ejemplo “Efectivo”.
+
+Nos abre una forma de “edición” y podemos cambiar o complementar el nombre de la cuenta, por ejemplo le agrego Caja Menor.
+
+En saldo inicial voy a colocar 5000 y dejo marcado el signo +, indicando que es un saldo positivo.
+
+Luego selecciono o escribo la fecha del saldo inicial; por ejemplo final del mes pasado.
+
+Le decimos guardar, y nos muestra la cuenta de Efectivo con los 5000.
+
+Podemos usar el selector para filtrar las cuentas por los diferentes tipos: con o sin saldo, efectivo, créditos o préstamos. Y mostremos nuevamente sin saldo.
+
+Ahora registremos el saldo de una tarjeta de crédito
+
+Damos click sobre  Tarjeta Visa - Davivienda. En saldo inicial, vamos a colocar el valor de la deuda que tenemos hasta la ultima fecha de corte, o el dato que tenga en su extracto bancario; por ejemplo 1500.
+
+Y colocamos la fecha de ese saldo, por ejemplo final del mes pasado
+
+Volvamos a la pestaña efectivo y ahora podemos ver las dos cuentas a las que les registramos nuestros saldos iniciales.
+
+También si queremos mirar los cambios de una de las cuentas o saber porque tienen ese saldo, damos click sobre el valor del Saldo.
+
+Aquí nos muestra los movimientos de la cuenta de los últimos 30 días; y se puede cambiar tanto el rango de fecha, como la cuenta seleccionada.
+
+Si queremos eliminar alguna de las cuentas, pasamos el cursor sobre la linea de la cuenta a eliminar y damos click en el botón naranja con el signo menos.
+
+Lo importante es que la cuenta a eliminar no tenga registrada ninguna transacción.
+
+Aunque ya estamos listos para comenzar a ingresar transacciones…
+
+…es buena idea que revisemos el estado inicial del Resumen antes de hacerlo…
+
+Inicialmente lo vemos en ceros, pero si hacemos click donde dice actualizar; la información se actualiza con los últimos datos que acabamos de ingresar.
+
+A la izquierda tengo el Balance General. Ahora tengo efectivo, cuentas por cobrar, mercancías, tengo préstamos, y cuentas por pagar. Lo verde es lo que tengo, (Activo), lo rojo es lo que debo, (Pasivo) y la diferencia es mi Capital.
+
+A mano derecha en este mismo resumen tenemos el Estado de Resultados. Tengo ingresos, tengo gastos y el resultado neto es una ganancia o perdida. Por ahora no tenemos datos y debemos esperar a que comencemos a ingresar transacciones para volver a revisarlo.
+
+!Ahora si estamos listos para comenzar a ingresar transacciones y revisar, y entender su impacto!
+
+Lo cual vamos a cubrir en la segunda parte de este video
+

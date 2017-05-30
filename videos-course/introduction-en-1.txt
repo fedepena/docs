@@ -1,0 +1,102 @@
+How and Where to Start - Part 1
+
+Step 1: Enter the accounts receivable and payable balances
+
+To enter all those accounts that we have outstanding receivable and payable we must do it through a transaction.
+
+We go to Income, we say new transaction, we can select or write the date, suppose we are going to start this month so we place the end of last month.
+
+(In this way we do not affect the income of the month that we are starting out)
+
+In customer, we place the name of the person or company that owes us. For example the Coyote.
+
+In the name of the item, we write "initial balance" and the system already shows the item created for this case.
+
+Because they are initial balances, we have cleared the tax
+
+In price we put the total amount of what they owe us, for example 10000 and we say save.
+
+Now we will record a pending account from a supplier; We go to Expenses, then new transaction, in supplier we put Warner Brothers; In name we return to call the item "opening balance" and we put the price, for example 5000 and we saved.
+
+These transactions will now appear in our accounts receivable and payable reports.
+
+Now all we have to do is repeat this process, ie create a transaction for each of the outstanding accounts of each client or provider.
+
+Step 2: Enter the initial inventory
+
+To enter the initial inventory we need to go to inventory control, and use the add inventory action.
+
+This opens a form for creating an inventory adjustment. In this case, the adjustment is going to be to add all the goods we currently have in inventory.
+
+We write or select the date we are going to use for our initial inventory adjustment. For example, the end of last month.
+
+Press the tab key to move to reference, and enter Initial Inventory, to keep track of the nature of this setting.
+
+Press the tab key again and enter the name of our first product: Alpist.
+
+We again press tab and this time we get a form to create and classify the product.
+
+Alpist is something we buy and sell, not a material or a fixed asset, so in type we select goods.
+
+Only name and type are required to create the product.
+
+I put 100 in sale price, 50 in purchase price, and 100% Organic in description.
+
+We save and our product now has description and price.
+
+Press the tab key again and enter the existing inventory: 15.
+
+Of course, we have to repeat this process for each product we have in inventory.
+
+If the list of products is too long, you can also give it to an Excel file with all the information you want to include and we will gladly import it.
+
+To see the list of what we have entered so far, we go to the tab "inventory" and here we have our 15 units of Alpist.
+
+Step 3: Enter the cash and credits balances
+
+To enter our cash balances we will control - cash.
+
+Here is a list already created with different types of accounts as a suggestion for your country, which we can use or delete. We can also create new ones using the different actions we have for each type of account.
+
+To place our opening balances, simply click on the name of the account, for example "Cash".
+
+It opens a form of "editing" and we can change or complement the name of the account, for example I add Petty.
+
+In initial balance I will place 5000 and leave the + sign marked, indicating that it is a positive balance.
+
+Then select or write the date of the opening balance; For example late last month.
+
+We tell you to save, and shows us the Cash account with the 5000.
+
+We can use the selector to filter accounts by different types: with or without balance, cash, credits or loans. And show again without balance.
+
+We now record the balance of a credit card
+
+We click on Credit Card. In bank we complete Citi, in the opening balance, we will place the value of the debt that we have until the last cut date, or the data you have in your bank statement; For example 1500.
+
+And we put the date of that balance, for example last month's end
+
+Let's go back to the cash tab and now we can see the two accounts to which we check our opening balances.
+
+Also if we want to look at the changes in one of the accounts or know why they have that balance, we click on the value of the Balance.
+
+Here it shows the movements of the account of the last 30 days; And you can change both the date range and the selected account.
+
+If we want to delete any of the accounts, we move the cursor over the line of the account to eliminate and we click on the orange button with the minus sign.
+
+The important thing is that the account to be deleted has no transaction recorded.
+
+Although we are ready to start entering transactions…
+
+…it is a good idea to review the initial state of the Overview before doing so…
+
+Initially we see it in zeros, but if we click where it says update; The information is updated with the latest data that we have just entered.
+
+On the left, I have the Balance Sheet. Now I have cash, accounts receivable, goods, I have loans, and accounts payable. Green is what I have, (Assets), red is what I owe, (Liabilities) and difference is my Equity.
+
+To the right in this same summary we have the Income and expense statement. I have sales, I have expenses and the net result is a gain or loss. For now we do not have data and we must wait until we begin to enter transactions to revise it.
+
+Now we are ready to start entering transactions and  to review and understand their impact!
+
+Which we will cover in the second part of this video
+

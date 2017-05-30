@@ -1,0 +1,88 @@
+How and where to start - Part 2
+
+The first thing we are going to do is simulate a purchase (on credit)
+
+Let's go to Expenses, and we'll add a new transaction. Suppose we are going to start this month.
+
+In a single transaction we can enter a lot of valuable information for our business. Let's see:
+
+In supplier we place Warner Brothers, if we want to enter the data of the supplier at once; Just click on the blue "Details" button. I update the data, and I say save it to return to the transaction.
+
+In name we enter the product or service that I am buying. For example Dynamite.
+
+We press tab and y we get the same form that we used in the initial inventory to create, and classify the product.
+
+Dynamite is something we buy and sell, so in type we select goods.
+
+I put 120 in sale price, 60 in purchase price, and "Delicate" in description.
+
+I say save and in quantity I will say that I buy 30 units at a price of 60 for a total of 1800. It is a transaction that I have not paid, so we will not enter payment information, I simply keep it, and there is my first purchase on credit.
+
+Now let's review the impact of the purchase on the different sections of the application
+
+If I click on the suppliers tab we can see our first supplier corresponding to Warner Brothers.
+
+We are going to control inventory, and I can also see the amounts I brought dynamite into my inventory.
+
+If we go to our report, we can see the transaction we just created, along with the initial balance, for a total of two transactions in accounts payable.
+
+Finally if we go to the overview and update, we can see that increase the inventory and the counterpart is accounts payable.
+
+Now let's simulate a sale (also on credit)
+
+We go to income, new transaction, as of the beginning of this month; And in client we put Coyote.
+
+Just as we did with the supplier, here too I can enter all the customer data.
+
+Now I copy what I sold: When writing Dynamite, the system detects that this item is already created.
+
+I select it; And in quantity I put 10 units.
+
+Automatically the system brings the sale price: 120, for a total of 1200. We have not been paid, then we keep the transaction, and there is my first purchase on credit.
+
+Now let's review the impact of the sale on the different sections of the application
+
+If I click on the customers tab we can see our first customer the Coyote.
+
+We are going to control inventory, and now I get the available quantities of Dynamite: that is, 20. (30 I buy in the previous transaction, minus the 10 that we just sold)
+
+If we go to our report, we can see the transaction we just created, along with the initial balance, for a total of two transactions in accounts receivable.
+
+And finally if we go to the summary and update; Accounts receivable increased and inventory decreased. In the income and expense statement, we have the income corresponding to the sale with its respective cost of sale; Which leaves us a profit; Which is also reflected in the balance as Equity.
+
+To finish let's record an expense (paid in cash)
+
+Let's go to Expenses, and add a new transaction.
+
+We put the date today, in supplier we write Real Estate.
+
+In item we put for example "Rent"
+
+As it is a new item, it opens the editing form and we will classify it as "General expenses".
+
+We put the price and we say save.
+
+To register the payment, since we are paying cash, I click on the gray tab that says payments.
+
+I select the account where I get the money for the expense, for example "Cash" and I say save. We already have the first transaction of an expense.
+
+Now let's review the impact of the expense on the different sections of the application (especially in cash)
+
+If we go to expenses, we can identify our purchase in green, indicating that it has already been paid.
+
+And if we are going to control cash we can see that our cash no longer only corresponds to the initial balance of 5000.
+
+If we want to see the changes click on the balance and shows the detail of the account: the opening balance minus the expense we just recorded.
+
+Finally, if we go to the overview and update, we can see that our cash decreased. And our income statement is affected in the expenses.
+
+Summary and Success Factors
+
+In order to begin entering transactions, you must first enter the initial accounts receivable, accounts payable, inventory and cash balances (including credits)
+
+As you enter transactions, you must ensure that your cash balances in the system are kept in sync with the actual balances
+
+If you do this consistently for a few days, you will begin to see the benefits in managing and controlling your business from using the software
+
+And if you want us to help you to enter your starting balances and/or first transactions, please contact us by chat inside the app to schedule a getting started session with the person in charge of education
+

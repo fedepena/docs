@@ -1,0 +1,88 @@
+Cómo y Dónde Arrancar - Parte 2
+
+Lo primero que vamos a hacer es simular una compra (a crédito)
+
+Vamos a Gastos, y vamos a agregar una nueva transacción. Supongamos que vamos a iniciar este mes.
+
+En una sola transacción podemos ingresar mucha información valiosa para nuestro negocio. Veamos:
+
+En proveedor colocamos Warner Brothers, si queremos ingresar de una vez los datos del proveedor; basta con dar click en el botón azul que dice “editar”.  Actualizo los datos, y le digo guardar para volver a la transacción.
+
+En nombre ingresamos el producto o servicio que estoy comprando. Por ejemplo Dinamita.
+
+Presionamos tab y y nos sale el mismo formulario que usamos en el inventario inicial para crear, y clasificar el producto.
+
+Dinamita es algo que compramos y vendemos, así que en tipo seleccionamos mercancías.
+
+Ingreso 120 en precio de venta, 60 en precio de compra, y “Delicado” en descripción.
+
+Le digo guardar y en cantidad voy a decir que compre 30 unidades a un precio de 60 para un total de 1800. Es una transacción que no he pagado, entonces no vamos a ingresar información de pago, simplemente guardo, y ahí esta mi primera compra a crédito.
+
+Ahora revisemos el impacto de la compra en las diferentes secciones de la aplicación
+
+Si hago click en la pestaña de proveedores podemos ver nuestro primer proveedor correspondiente a Warner Brothers.
+
+Vamos a controlar inventario, y también puedo ver las cantidades que ingresé de dinamita a mi inventario.
+
+Si vamos a nuestro reporte, podemos ver la transacción que acabamos de crear, junto con la del saldo inicial, para un total de dos transacciones en cuentas por pagar.
+
+Finalmente si vamos al resumen y actualizamos, podemos ver que aumentó el inventario y la contrapartida es cuentas por pagar.
+
+Ahora simulemos una venta (también a crédito)
+
+Vamos a ingresos, nueva transacción, en fecha dejamos inicios de este mes; y en cliente colocamos Coyote.
+
+De igual forma que hicimos con el proveedor, aquí también puedo ingresar todos los datos del cliente.
+
+Ahora facturo lo que vendí: Al escribir Dinamita, el sistema detecta que éste ítem ya esta creado.
+
+Lo selecciono; y en cantidad coloco 10 unidades.
+
+Automáticamente el sistema trae el precio de venta: 120, para un total de 1200. No nos han pagado, entonces guardamos la transacción, y ahí esta mi primera venta a crédito.
+
+Ahora revisemos el impacto de la venta en las diferentes secciones de la aplicación
+
+Si hago click en la pestaña de clientes podemos ver nuestro primer cliente el Coyote.
+
+Vamos a controlar inventario, y ahora me salen las cantidades disponibles de Dinamita: es decir, 20. (30 que compre en la transacción anterior, menos las 10 que acabamos de vender)
+
+Si vamos a nuestro reporte, podemos ver la transacción que acabamos de crear, junto con la del saldo inicial, para un total de dos transacciones en cuentas por cobrar.
+
+Y finalmente si vamos al resumen y actualizamos; las cuentas por cobrar aumentaron y el inventario disminuyó.  En el estado de resultados, tenemos el ingreso correspondiente a la venta con su respectivo costo de venta; lo cual nos deja una ganancia; que también se refleja en el balance como capital.
+
+Para finalizar hagamos el registro de un gasto (de contado)
+
+Vamos a Gastos, y agreguemos una nueva transacción.
+
+Mantenemos la fecha de hoy, y en proveedor escribimos Inmobiliaria.
+
+En ítem coloquemos por ejemplo “Arriendo”
+
+Como es un ítem nuevo,  nos abre la forma de edición y vamos a clasificarlo como “Gastos generales”.
+
+Le colocamos el precio y le decimos guardar.
+
+Para registrar el pago, ya que lo estamos pagando de contado, doy click en la pestaña gris que dice pagos.
+
+Selecciono la cuenta de donde saque el dinero para el gasto, por ejemplo “Efectivo” y le digo guardar. Ya tenemos la primera transacción de un gasto.
+
+Ahora revisemos el impacto del gasto en las diferentes partes de la aplicación (sobre todo en el efectivo)
+
+Si vamos a gastos, podemos identificar nuestra compra en color verde, indicando que esta ya fue pagada.
+
+Y si vamos a controlar efectivo podemos ver que nuestro efectivo ya no solo corresponde al saldo inicial de 5000.
+
+Si queremos ver los cambios damos click sobre el saldo y nos muestra el detalle de la cuenta: el saldo inicial menos el gasto que acabamos de registrar.
+
+Finalmente si vamos al resumen y actualizamos, podemos ver que nuestro efectivo disminuyó. Y nuestro estado de resultados es afectado en los gastos.
+
+Resumen y Factores de Éxito
+
+Para poder comenzar a ingresar transacciones, usted debe primero ingresar los saldos iniciales de cuentas por cobrar, cuentas por pagar, inventario y efectivo (incluyendo créditos)
+
+A medida que ingrese transacciones, usted  debe asegurarse que sus saldos de efectivo en el sistema se mantengan sincronizados con los saldos reales
+
+Si usted hace esto consistentemente por unos cuantos días, va a comenzar a ver los beneficios en la administración y el control de su negocio de usar el software
+
+Y si quiere que lo ayudemos a ingresar sus saldos iniciales y/o sus primeras transacciones, por favor contáctenos por chat dentro de la aplicación para agendarle una sesión de arranque con la persona encargada de educación
+
